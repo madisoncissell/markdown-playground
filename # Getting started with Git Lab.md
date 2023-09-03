@@ -74,5 +74,5 @@ a plus boy +
 
 Main text: Alex Wingate went to William and Mary.(place footnote here)
 
-Footnote text: [William and Mary] (https://www.wm.edu/) is a university in Williamsburg, VA founded in 1693. [^]
+Footnote text: [William and Mary](https://www.wm.edu/) is a university in Williamsburg, VA founded in 1693. [^]
 
